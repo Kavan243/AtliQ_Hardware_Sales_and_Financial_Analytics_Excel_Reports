@@ -1,4 +1,4 @@
-# Sales and Financial Analytics of AtliQ Hardware
+# AtliQ Hardware Sales and Financial Analytics Report
 ## Project Overview
 AtliQ Hardware is a multinational company that sells products such as printers, mice, PCs, etc., to two customer types: e-commerce platforms (e.g., Amazon, Flipkart) and brick-and-mortar stores (e.g., Croma, Best Buy). The company uses three sales channels:
 
